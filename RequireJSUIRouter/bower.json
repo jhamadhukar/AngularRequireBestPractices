@@ -1,0 +1,17 @@
+{
+  "name": "Angular",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "jquery-ui": "latest",
+    "angular": "latest",
+    "requirejs": "latest",
+    "bootstrap": "latest",
+    "fontawesome": "latest" 
+  }
+}

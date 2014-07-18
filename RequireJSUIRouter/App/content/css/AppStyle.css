@@ -1,0 +1,251 @@
+﻿body {
+   
+}
+th, .tablcell{
+    /*background-color:lightgray;*/
+}
+table{
+    border: none
+}
+.padRight5{
+    /*padding-right:5px;*/
+}
+.padLeft5{
+    padding-left: 5px !important
+}
+.padLeft50{
+    padding-left: 50px !important
+}
+.padLeft10{
+    padding-left:10px;
+}
+.padRight10{
+    padding-right:10px;
+}
+.padLeft15{
+    padding-left:15px;
+}
+.padRight15{
+    padding-right:15px;
+}
+.xxx-smallTextBox{
+    width:30px;
+}
+.width25{
+    width:25px;
+}
+.xx-smallTextBox{
+    width: 50px;
+}
+.x-smallTextBox {
+    width: 100px;
+}
+.width75 {
+    width: 75px;
+}
+.borderAround{
+   /*border : 2px solid lightgray;*/
+}
+icon-large {
+    background-image: url("../fonts/glyphicons.png");
+    background-position: 24px 24px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 28px;
+    line-height: 28px;
+    vertical-align: text-bottom;
+    width: 28px;
+}
+.icon-large.icon-group{ background-position: 0 -1436px;  } 
+.height25{
+    /*height:25px;*/
+}
+.height100{
+    height:100px;
+}
+td{
+    vertical-align:top;
+}
+.horizontalAlignRight{
+    text-align:right;
+}
+.width40{
+    width:40px;
+}
+.width60{
+    width:60px;
+}
+.width90{
+    width:90px;
+}
+.width100{
+    width:100px;
+}
+.width160{
+    width: 136px;
+}
+.width136{
+    width: 130px;
+}
+
+ input.ng-invalid.ng-dirty {
+     background-color: #ac0000;
+     color:#fff;
+
+ }
+
+  
+  select.ng-invalid.ng-dirty{
+     background-color: #ac0000;
+     color:#fff;
+  }
+
+  .invalid{
+     background-color: #ac0000!important;
+     color:#fff!important;
+  }
+  .valid{
+     background-color: #D3F0FF!important;
+     color: #000!important;
+  }
+
+ select{
+     color:black;
+ }
+
+ @media (min-width: 768px) {
+  .sidebar-nav .navbar .navbar-collapse {
+    padding: 0;
+    max-height: none;
+  }
+  .sidebar-nav .navbar ul {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+}
+
+
+ select option[default] {
+    color: #333;
+}
+
+.defaultVal{
+    background-color: white!important;
+    overflow-wrap:break-word !important;
+}
+
+.positiveVal{
+    background-color: lightgreen!important;
+    color: black;
+}
+
+.negativeVal{
+    background-color: red!important;
+}
+
+.dashboard{
+     position:fixed; top:0px; right: 150px; z-index: 20; opacity: 0.6;filter: alpha(opacity=50);
+}
+.dashboard:hover{
+     position:fixed; top:0px; right: 150px; z-index: 20; opacity: 1;filter: alpha(opacity=0);
+}
+
+.CircularButton{
+    width: 50px!important; height: 50px!important;  line-height: 40px; padding:0;  border-radius:50%;
+}
+.CircularSmallButton{
+    width: 25px!important; height: 25px!important;  line-height: 20px; padding:0;  border-radius:50%;
+}
+.inputSheet{
+    background: url('/App/Img/InputSheet.png') no-repeat #375a7f;
+    background-size:contain;
+}
+
+.assetCalculator{
+    background: url('/app/Img/AssetCalculator.png') no-repeat #375a7f;
+    background-size:contain;
+}
+
+.snowFall{
+    background: url('/app/Img/Snowfall.png') no-repeat #375a7f;
+}
+
+.Logo{
+    
+     position: fixed;
+     width:250px;
+     height:56px;
+     top: 10px;
+     left: 120px;
+        
+}
+input{
+      background-color:#D3F0FF;
+}
+
+
+input[disabled]{
+    background-color: gray!important;
+    cursor: default;
+}
+.horizonalResize{
+    resize:horizontal;
+}
+.verticalResize{
+    resize:vertical;
+}
+.backColorGreen{
+    background-color:green;
+}
+.backColorDefault{
+     background-color:#D3F0FF;
+}
+
+input[type="date"].normalDate {line-height:normal;} 
+ul.dropdown-menu{background-color:#464545; } /*This is for angular-ui datepicker*/
+
+.HasValue{
+    color:red;
+}
+.noScrollbar{
+    overflow-wrap:break-word !important;
+}
+
+.marginTop2{
+    margin-top: 2px!important;
+}
+/*Asset calculator Table heading*/
+.NoValue{
+    color:white;
+}
+.bgRedish {
+    background-color:#C0504D;
+}
+
+.bgYellow {
+background-color:#FFC000;
+}
+.bgLightBlue {
+background-color:#538DD5;
+}
+.bgDarkBlue {
+background-color:#1F497D;
+}
+.bgPalePurple{
+    background-color:#B1A0C7;
+}
+.bgPaleGreen{
+    background-color:#76933C;
+}
+.bgGreen{
+    background-color:#92D050;
+}
+/*Asset calculator Table heading === END*/

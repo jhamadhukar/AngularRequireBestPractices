@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Angular.sublime-project",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RequireJSUIRouter/Index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: if"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/services/module.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/services/version.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/controllers/my-ctrl-1.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/app.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/bootstrap.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/main.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/routes.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/directives/index.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/directives/module.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/services/index.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/directives/app-version.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/filters/interpolate.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/filters/module.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/filters/index.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/controllers/InputController.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/index.html",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/controllers/my-ctrl-2.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/controllers/module.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/js/controllers/index.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/lib/requirejs/testBaseUrl.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/lib/requirejs-domready/domReady.js",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/lib/requirejs/updatesubs.sh",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/partials/partial2.html",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/partials/partial1.html",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/bower.json",
+		"/C/Users/jha.madhukar/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/jha.madhukar/Desktop/angular-require-uiRouter-master/angular-require-uiRouter-master/lib/angular/angular-ui-router.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Angular.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "RequireJSUIRouter/Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Angular.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
